@@ -1,4 +1,12 @@
 body{
-    background-color: aqua;
-    color: aliceblue;
+    background-color: beige;
+    color: black;
+}
+p{
+    display: block;
+    font-size: 1.5em;
+    display: flex;
+}
+img{
+    border-radius: 10px;
 }
